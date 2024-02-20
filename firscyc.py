@@ -10,4 +10,4 @@ def sum_nested(lst):
             total += current
 
     return total
-print(sum_nested([1, [2, [3,  4, [5]]]]))  # Output will be  15
+print(sum_nested([1, [2, [3,  4, [5]]]])) 
