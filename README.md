@@ -79,4 +79,8 @@ ____
 `return a_k:` Возврат вычисленного значения `a_k`.
 _____
 
-Информация про методы списка: !https://pythoner.name/list-methods
+[Информация про методы списка](https://pythoner.name/list-methods)
+
+[Информация про стек](https://pythonist.ru/realizacziya-steka-na-python/)
+
+[Рекурсивные функции](https://proglib.io/p/samouchitel-po-python-dlya-nachinayushchih-chast-13-rekursivnye-funkcii-2023-01-23)
